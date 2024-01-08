@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MY_FOC_2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MY_FOC_2.elf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MY_FOC_2.elf-Debug-955700ef0e965b743807.json",
+					"name" : "MY_FOC_2.elf",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/WhiteKite2020/Downloads/MY_FOC_Driver-main/MY_FOC_Driver-main/Software/MY_FOC_2/cmake-build-debug",
+		"source" : "C:/Users/WhiteKite2020/Downloads/MY_FOC_Driver-main/MY_FOC_Driver-main/Software/MY_FOC_2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

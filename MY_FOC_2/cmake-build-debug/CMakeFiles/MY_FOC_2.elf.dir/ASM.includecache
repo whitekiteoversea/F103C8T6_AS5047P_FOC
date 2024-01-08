@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/WhiteKite2020/Downloads/MY_FOC_Driver-main/MY_FOC_Driver-main/Software/MY_FOC_2/Core/Startup/startup_stm32f103c8tx.s
+
